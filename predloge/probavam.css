@@ -1,0 +1,92 @@
+html, body {
+    margin: 0; 
+    height: 100%
+}
+
+body {
+    background-color: rgb(81, 149, 115);
+}
+
+header {
+    background-color: rgb(223, 231, 223);
+}
+.naslov {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.navbar-header {
+    position: center;
+}
+.row-height1{
+    height: 28%;
+    padding-top: 100px;
+}
+
+.row-height2{
+    height: 15%;
+    padding-top: 40px
+}
+.row-height3{
+    padding-top:80px;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.navbar-style {
+    box-shadow: 0 5px 10px #efefef;
+}
+h5 {
+    padding-left: 5px;
+    color: black;
+}
+
+li a {
+    color: green;
+}
+.obroba{
+    width: 220px;
+    border: 4px rgba(68, 102, 70, 0.609) solid;
+    background-color: rgb(118, 168, 143);
+    border-radius: 15px;
+}
+.podatki{
+    padding-top: 10px;
+    padding-left: 50px;
+    font-family:'Courier New', Courier, monospace;  
+}
+
+.button {
+    background-color: #db916f;
+    border: none;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family:'Courier New', Courier, monospace; 
+}
+
+.special-button{
+    background-color: #db916f;
+    border: none;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 60px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+
+

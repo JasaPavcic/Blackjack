@@ -1,0 +1,151 @@
+html, body {
+    margin: 0; 
+    height: 100%;
+    width: 100%;
+    
+}
+
+body {
+    background-color: rgb(81, 149, 115);
+}
+
+header {
+    background-color: rgb(223, 231, 223);
+}
+.naslov {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.navbar-header {
+    position: center;
+}
+.row-height1{
+    height: 28%;
+    padding-top: 60px;
+}
+
+.row-height2{
+    height: 15%;
+    padding-top: 25px
+}
+.row-height3{
+    padding-top:40px;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.navbar-style {
+    box-shadow: 0 5px 10px #efefef;
+}
+h5 {
+    padding-left: 5px;
+    color: black;
+}
+
+li a {
+    color: green;
+}
+.obroba{
+    width: 240px;
+    border: 4px rgba(68, 102, 70, 0.609) solid;
+    background-color: rgb(229, 231, 228);
+    border-radius: 15px;
+    padding: 20px 20px;
+    margin-left: 70px;
+}
+.podatki{
+    padding-top: 10px;
+    font-family:'Courier New', Courier, monospace;  
+}
+
+.podatki1{
+    padding-top: 10px;
+    font-family:'Courier New', Courier, monospace;  
+}
+
+.button {
+    background-color: #db916f;
+    border: none;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    cursor: pointer;
+    font-family:'Courier New', Courier, monospace; 
+    width: 100%;
+}
+
+.special-button{
+    background-color: #db916f;
+    border: none;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family:'Courier New', Courier, monospace;
+}
+.stava-obrazec {
+    margin-left: 100px;
+}
+img.coin {
+    display: block;
+    border-radius: 90%;
+    align-self: right;
+}
+
+.deck{
+    padding-left: 60px;
+}
+
+
+h3 {
+    padding-left: 10px;
+    color: whitesmoke;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.sestevek {
+    color: black;
+    font-size: small;
+}
+
+.prijava {
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    padding: 20px 20px;
+}
+
+.padding {
+    margin-left: 20px;
+}
+
+.kovanac {
+    margin-left: 300px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.rezultat {
+    text-align: center;
+    font-size: 28px;
+    color: black;
+    font-weight: bold;
+    margin-right: 20px;
+    text-shadow: coral;
+}
